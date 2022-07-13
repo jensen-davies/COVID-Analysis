@@ -5,3 +5,4 @@ Visit the link below for an interactive dashboard that utilizes some queries fro
 
 https://public.tableau.com/app/profile/jensen.davies/viz/COVIDAnalysis_16575973880200/Dashboard?publish=yes
 
+![image](https://user-images.githubusercontent.com/86537292/178661593-22140eca-a8f3-4cf1-86c4-6dff32bf7af4.png)
